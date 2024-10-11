@@ -94,7 +94,7 @@ The code will be delivered via GitLab, with access provided to project advisors.
 The project follows the standard usage license outlined in Paragraph 10 of the USNA CS Capstone Instruction.
 
 #### Termination Clause
-In the event of project termination, a "recovery schedule" of courses is in place to ensure timely graduation.
+In the event of project termination, a "recovery plan" will be implemented to enhance and already existing model.
 
 ---
 
